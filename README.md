@@ -1,10 +1,3 @@
-This is an excellent initiative for your GitHub portfolio. Writing a strong `README.md` that explains not just *what* you did, but *how* and *why* you did it (especially focusing on manual implementations vs. built-in libraries) is exactly what hiring managers and senior data scientists look for.
-
-I have analyzed your `Ensemble_Algorithms_Turbo_az_dataset.ipynb` notebook and the provided text template. Your notebook focuses on predicting car prices (Turbo.az dataset) using various ensemble techniques, including extensive preprocessing, feature engineering, handling data leakage, and comparing Bagging, Boosting, Voting, and Stacking methods.
-
-Here is a professional, detailed `README.md` file tailored for your Turbo.az ensemble project, matching the analytical and descriptive tone of your provided template.
-
-
 # Turbo.az Car Price Prediction: Advanced Ensemble Techniques
 
 This repository contains my implementation of an end-to-end Machine Learning pipeline focused on predicting car prices using the Azerbaijani automotive classifieds dataset (Turbo.az). Rather than just fitting a single model, this project explores the power of **Ensemble Learning**, culminating in a rigorous comparison of Bagging, Boosting, Voting, and Stacking architectures.
